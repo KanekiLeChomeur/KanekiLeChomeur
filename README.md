@@ -1,3 +1,6 @@
+### 👋 Hey guys, I'm KanekiLeChomeur and I'm a PHP and Javascript Dev
+## My stats are just under here
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=KanekiLeChomeur&show_icons=true&count_private=true&hide_title=true)
 
 <!--
