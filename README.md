@@ -1,10 +1,13 @@
 ### 👋 Hey guys, I'm KanekiLeChomeur and I'm a PHP and Javascript Dev
-#### My stats are just under here
+#### 📊 Stats
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=KanekiLeChomeur&show_icons=true&count_private=true&hide_title=true)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiLeChomeur&layout=compact)
 
+#### 🌐 Activity
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/568874566869581835)](https://discord.com/users/568874566869581835)
 <!--
 **KanekiLeChomeur/KanekiLeChomeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
