@@ -3,6 +3,8 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=KanekiLeChomeur&show_icons=true&count_private=true&hide_title=true)
 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiLeChomeur&layout=compact)
+
 <!--
 **KanekiLeChomeur/KanekiLeChomeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
