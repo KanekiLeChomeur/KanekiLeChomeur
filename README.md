@@ -8,6 +8,8 @@
 #### 🌐 Activity
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/568874566869581835)](https://discord.com/users/568874566869581835)
+
+![Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=0s766dwfs4jef9cfc70n58mm0)
 <!--
 **KanekiLeChomeur/KanekiLeChomeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
