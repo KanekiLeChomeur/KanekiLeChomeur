@@ -7,7 +7,7 @@
 
 #### 🌐 Activity
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/568874566869581835)](https://discord.com/users/568874566869581835)
+[![Discord](https://discord.c99.nl/widget/theme-3/568874566869581835.png)](https://discord.com/users/568874566869581835)
 
 
 <!--
