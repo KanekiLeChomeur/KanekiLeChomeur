@@ -1,4 +1,4 @@
-### <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px"> Hey guys, I'm KanekiLeChomeur and I'm a PHP and Javascript Dev
+### <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px"> Hey guys, I'm KanekiOnMC and I'm a PHP(PMMP) and Javascript Dev
 #### 📊 Stats
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=KanekiLeChomeur&show_icons=true&count_private=true&hide_title=true)
